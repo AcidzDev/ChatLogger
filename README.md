@@ -1,0 +1,2 @@
+# ChatLogger
+Trovo.js ChatLogger
